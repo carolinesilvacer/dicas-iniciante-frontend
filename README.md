@@ -19,3 +19,18 @@ Focarei em:<br>
   Espero que eu possa ser útil na sua jornada! <br>
  <hr>
   
+  Para começar a programar em qualquer linguagem de programação primeiro precisamos escolher o nosso "ambiente de trabalho", ou seja, onde que nós iremos fazer esse código rodar? Eu escolhi o VSCode por ser o mais prático e moderno.
+  
+  Faça o [Download do VSCode aqui](https://code.visualstudio.com/download), escolha a opção do seu sistema operacional;<br>
+  Instale e next em tudo;<br>
+  
+  Após instalar tudo certinho, vamos para uma parte importante que simplificam muito nossa vida: As extensões.
+  
+  Apertando CTRL + SHIFT + X você abre as opções de extensões, perceba que você tem uma aba na qual pode pesquisar, clique nela, pesquise e instale as seguintes:
+  <ul>
+    <li>Live Server Permite que você veja o resultado do seu código em tempo real ao clicar com o botão direito sobre o arquivo escrito "Open with Live Server"</li>
+    <li>vs-code icons (Qando você cria um arquivo em tal linguagem, é adicionado um Ícone referente a ela)
+    <li>Portuguese (Brazil) Language Pack for Visual Studio Code</li>
+   
+  
+  
