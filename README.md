@@ -28,9 +28,9 @@ Focarei em:<br>
   
   Apertando CTRL + SHIFT + X você abre as opções de extensões, perceba que você tem uma aba na qual pode pesquisar, clique nela, pesquise e instale as seguintes:
   <ul>
-    <li>Live Server Permite que você veja o resultado do seu código em tempo real ao clicar com o botão direito sobre o arquivo escrito "Open with Live Server"</li>
-    <li>vs-code icons (Qando você cria um arquivo em tal linguagem, é adicionado um Ícone referente a ela)
-    <li>Portuguese (Brazil) Language Pack for Visual Studio Code</li>
+    <li>Live Server - Permite que você veja o resultado do seu código em tempo real ao clicar com o botão direito sobre o arquivo escrito "Open with Live Server"</li>
+    <li>vs-code icons - Quando você cria um arquivo em tal linguagem, é adicionado um Ícone referente a ela </li>
+    <li>Portuguese (Brazil) Language Pack for Visual Studio Code - Você pode substituir o idioma da interface do usuário padrão definindo explicitamente o idioma de exibição do VS Code com o comando "Configurar o Idioma de Exibição". Pressione "Ctrl+Shift+P" para exibir a "Paleta de Comandos" e comece a digitar "display" para filtrar e exibir o comando "Configurar o Idioma de Exibição". Pressione "Enter" e será exibida uma lista de idiomas instalados por localidade, com a localidade atual realçada. Selecione outra "localidade" para mudar o idioma da interface do usuário.</li> 
    
   
   
