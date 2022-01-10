@@ -7,10 +7,11 @@ Ao longo do meu aprendizado compartilharei ainda mais códigos, dicas, sites út
 Focarei em:<br>
 
 <ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
+  <li>HTML</li>
+  <li>CSS</li>
+  <li>JAVASCRIPT</li>
+  <li>GIT</li>
+  <li>GITHUB</li>
+  <li>UI/UX DESIGN</li>
+  <li>DESIGN GRÁFICO</li>
+  <li>OUTROS</li>
