@@ -24,7 +24,7 @@ Focarei em:<br>
   Faça o [Download do VSCode aqui](https://code.visualstudio.com/download), escolha a opção do seu sistema operacional;<br>
   Instale e next em tudo;<br>
   
-  Após instalar tudo certinho, vamos para uma parte importante que simplificam muito nossa vida: As extensões.
+  Após instalar tudo certinho, vamos para uma parte importante que simplifica muito nossa vida: As extensões.
   
   Apertando CTRL + SHIFT + X você abre as opções de extensões, perceba que você tem uma aba na qual pode pesquisar, clique nela, pesquise e instale as seguintes:
   <ul>
