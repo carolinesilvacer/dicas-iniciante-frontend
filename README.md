@@ -17,8 +17,8 @@ Focarei em:<br>
   <li>OUTROS</li><br>
   
   Espero que eu possa ser útil na sua jornada! <br>
- <hr>
-  
+
+  ## Antes de tudo, siga esse passo:<br>
   Para começar a programar em qualquer linguagem de programação primeiro precisamos escolher o nosso "ambiente de trabalho", ou seja, onde que nós iremos fazer esse código rodar? Eu escolhi o VSCode por ser o mais prático e moderno.
   
   Faça o [Download do VSCode aqui](https://code.visualstudio.com/download), escolha a opção do seu sistema operacional;<br>
